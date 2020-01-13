@@ -1,0 +1,47 @@
+[
+  {
+    "role": "neet",
+    "works": [
+      {
+        "title": "ネトゲをする",
+        "time": 13
+      }
+    ]
+  },
+  {
+    "role": "entertainer",
+    "works": [
+      {
+        "title": "売れっ子",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "role": "servant",
+    "works": [
+      {
+        "title": "教員",
+        "time": 6
+      }
+    ]
+  },
+  {
+    "role": "employee",
+    "works": [
+      {
+        "title": "事務",
+        "time": 7
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "works": [
+      {
+        "title": "学校がある",
+        "time": 8
+      }
+    ]
+  }
+]

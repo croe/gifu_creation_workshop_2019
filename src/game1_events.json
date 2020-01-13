@@ -1,0 +1,232 @@
+{
+  "events" : [
+    {
+      "title": "家族全員で旅行",
+      "assetId": "Todkx0LP-Ct",
+      "category": "love",
+      "data": [
+        {
+          "sub": "リラックスできて楽しかった。",
+          "val": 4
+        },
+        {
+          "sub": "台風が直撃して中止。",
+          "val": 0
+        },
+        {
+          "sub": "旅行先で喧嘩する。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "好きな人に告白した。",
+      "assetId": "vlKkgnYZRUN",
+      "category": "love",
+      "data": [
+        {
+          "sub": "OKをもらう事ができた。",
+          "val": 4
+        },
+        {
+          "sub": "丁寧に断られた。",
+          "val": 0
+        },
+        {
+          "sub": "はぶらかされた。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "ペットの世話をした。。",
+      "assetId": "iH8BLfX6zj3",
+      "category": "love",
+      "data": [
+        {
+          "sub": "癒された。",
+          "val": 4
+        },
+        {
+          "sub": "無視された。",
+          "val": 0
+        },
+        {
+          "sub": "噛まれた。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "本を読んだ。。",
+      "assetId": "RtiHbrtsZQU",
+      "category": "idea",
+      "data": [
+        {
+          "sub": "為になった。",
+          "val": 4
+        },
+        {
+          "sub": "寝落ちした。",
+          "val": 0
+        },
+        {
+          "sub": "ジュースをこぼしてしまった。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "絵を描いてみた。",
+      "assetId": "Lsszt9fNAuV",
+      "category": "idea",
+      "data": [
+        {
+          "sub": "想像通りにかけた。",
+          "val": 4
+        },
+        {
+          "sub": "考えていたものと違うものができた。",
+          "val": 0
+        },
+        {
+          "sub": "アイデアが浮かばなかった。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "ジグソーパズルを遊んだ。",
+      "assetId": "VHn6DznC0XA",
+      "category": "idea",
+      "data": [
+        {
+          "sub": "すばやく完成させることができた。",
+          "val": 4
+        },
+        {
+          "sub": "時間がかかったが完成した。",
+          "val": 0
+        },
+        {
+          "sub": "途中で飽きてしまった。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "友達と遊ぶ約束をしていた。",
+      "assetId": "w_ydGPJk8tC",
+      "category": "trust",
+      "data": [
+        {
+          "sub": "時間どおりにつけた。",
+          "val": 4
+        },
+        {
+          "sub": "遅れたけどつけた。",
+          "val": 0
+        },
+        {
+          "sub": "すっぽかした。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "仕事を任された。",
+      "assetId": "P0lwLEuCCWe",
+      "category": "trust",
+      "data": [
+        {
+          "sub": "求められたもの以上の結果を出すことができた。",
+          "val": 4
+        },
+        {
+          "sub": "なんとか間に合った。",
+          "val": 0
+        },
+        {
+          "sub": "納期までに間に合わなかった。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "目の前の人が落し物をした。",
+      "assetId": "7NQPJKASuyr",
+      "category": "moral",
+      "data": [
+        {
+          "sub": "拾って、持ち主に返した。",
+          "val": 4
+        },
+        {
+          "sub": "他の人が拾って返した。",
+          "val": 0
+        },
+        {
+          "sub": "知らないフリをした。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "電車の座席に高齢者の方がやってきた。。",
+      "assetId": "JPzTB3f4cUG",
+      "category": "moral",
+      "data": [
+        {
+          "sub": "素直に席を譲った。",
+          "val": 4
+        },
+        {
+          "sub": "他の人が席を譲った。",
+          "val": 0
+        },
+        {
+          "sub": "寝たフリをした。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "困っている人を見かけた。",
+      "assetId": "5eoJ4GWrE1E",
+      "category": "moral",
+      "data": [
+        {
+          "sub": "助けた。",
+          "val": 4
+        },
+        {
+          "sub": "他の人が声をかけた。",
+          "val": 0
+        },
+        {
+          "sub": "しらないフリをした。",
+          "val": -4
+        }
+      ]
+    },
+    {
+      "title": "親に家事を頼まれた。",
+      "assetId": "k06gIK4juGJ",
+      "category": "trust",
+      "data": [
+        {
+          "sub": "手伝った。",
+          "val": 4
+        },
+        {
+          "sub": "てこずったができた。",
+          "val": 0
+        },
+        {
+          "sub": "しらないフリをした。",
+          "val": -4
+        }
+      ]
+    }
+  ]
+}

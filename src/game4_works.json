@@ -1,0 +1,51 @@
+{
+  "works": [
+    {
+      "title": "アルバイト",
+      "human": 1,
+      "eval": 2,
+      "reward": 2
+    },
+    {
+      "title": "派遣",
+      "human": 2,
+      "eval": 3,
+      "reward": 4
+    },
+    {
+      "title": "在宅ワーク",
+      "human": 2,
+      "eval": 10,
+      "reward": 5
+    },
+    {
+      "title": "物づくり",
+      "human": 3,
+      "eval": 5,
+      "reward": 10
+    },{
+      "title": "施設設営",
+      "human": 4,
+      "eval": 15,
+      "reward": 15
+    },{
+      "title": "道路整備",
+      "human": 5,
+      "eval": 15,
+      "reward": 17
+    },
+    {
+      "title": "市役所設営",
+      "human": 6,
+      "eval": 20,
+      "reward": 23
+    }
+  ]
+}
+
+
+
+
+
+
+
